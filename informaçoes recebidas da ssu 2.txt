@@ -1,0 +1,1458 @@
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 125 ms
+Dado recebido: 247
+Recebido da SSU!
+Tempo desde a última recepção: 335 ms
+Dado recebido: 150
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 142
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 107 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 351 ms
+Dado recebido: 149
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 188 ms
+Dado recebido: 246
+Recebido da SSU!
+Tempo desde a última recepção: 333 ms
+Dado recebido: 148
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 206
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 188 ms
+Dado recebido: 246
+Recebido da SSU!
+Tempo desde a última recepção: 337 ms
+Dado recebido: 147
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 146
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 142
+Recebido da SSU!
+Tempo desde a última recepção: 95 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 112 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 353 ms
+Dado recebido: 145
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 206
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 153 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 365 ms
+Dado recebido: 176
+Recebido da SSU!
+Tempo desde a última recepção: 94 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 206
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 153 ms
+Dado recebido: 243
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 142
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 142
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 142
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 223
+Recebido da SSU!
+Tempo desde a última recepção: 351 ms
+Dado recebido: 141
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 224 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 299 ms
+Dado recebido: 140
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 139
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 223
+Recebido da SSU!
+Tempo desde a última recepção: 352 ms
+Dado recebido: 138
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 92 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 159 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 298 ms
+Dado recebido: 137
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 239
+Recebido da SSU!
+Tempo desde a última recepção: 344 ms
+Dado recebido: 200
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 177 ms
+Dado recebido: 239
+Recebido da SSU!
+Tempo desde a última recepção: 345 ms
+Dado recebido: 135
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 134
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 189 ms
+Dado recebido: 247
+Recebido da SSU!
+Tempo desde a última recepção: 331 ms
+Dado recebido: 133
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 188 ms
+Dado recebido: 247
+Recebido da SSU!
+Tempo desde a última recepção: 335 ms
+Dado recebido: 196
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 188 ms
+Dado recebido: 247
+Recebido da SSU!
+Tempo desde a última recepção: 338 ms
+Dado recebido: 131
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 223
+Recebido da SSU!
+Tempo desde a última recepção: 350 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 161 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 297 ms
+Dado recebido: 225
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 238
+Recebido da SSU!
+Tempo desde a última recepção: 344 ms
+Dado recebido: 240
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 181 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 342 ms
+Dado recebido: 127
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 243
+Recebido da SSU!
+Tempo desde a última recepção: 351 ms
+Dado recebido: 126
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 198 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 325 ms
+Dado recebido: 125
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 197 ms
+Dado recebido: 252
+Recebido da SSU!
+Tempo desde a última recepção: 324 ms
+Dado recebido: 124
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 198 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 324 ms
+Dado recebido: 123
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 352 ms
+Dado recebido: 122
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 143
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 523 ms
+Dado recebido: 121
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 233 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 315 ms
+Dado recebido: 120
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 229
+Recebido da SSU!
+Tempo desde a última recepção: 352 ms
+Dado recebido: 119
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 206 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 316 ms
+Dado recebido: 118
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 243
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 219
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 117
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 212 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 149 ms
+Dado recebido: 223
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 116
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 153 ms
+Dado recebido: 157
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 115
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 153 ms
+Dado recebido: 223
+Recebido da SSU!
+Tempo desde a última recepção: 372 ms
+Dado recebido: 114
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 223
+Recebido da SSU!
+Tempo desde a última recepção: 366 ms
+Dado recebido: 113
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 223
+Recebido da SSU!
+Tempo desde a última recepção: 371 ms
+Dado recebido: 112
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 231
+Recebido da SSU!
+Tempo desde a última recepção: 349 ms
+Dado recebido: 111
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 206 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 370 ms
+Dado recebido: 110
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 243
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 109
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 108
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 153 ms
+Dado recebido: 253
+Recebido da SSU!
+Tempo desde a última recepção: 371 ms
+Dado recebido: 107
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 231
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 106
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 212 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 149 ms
+Dado recebido: 231
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 105
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 222
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 104
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 153 ms
+Dado recebido: 229
+Recebido da SSU!
+Tempo desde a última recepção: 370 ms
+Dado recebido: 103
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 254
+Recebido da SSU!
+Tempo desde a última recepção: 206 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 235
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 102
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 115 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 156 ms
+Dado recebido: 239
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 101
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 207 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 250
+Recebido da SSU!
+Tempo desde a última recepção: 352 ms
+Dado recebido: 100
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 95 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 112 ms
+Dado recebido: 191
+Recebido da SSU!
+Tempo desde a última recepção: 153 ms
+Dado recebido: 239
+Recebido da SSU!
+Tempo desde a última recepção: 370 ms
+Dado recebido: 99
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 207
+Recebido da SSU!
+Tempo desde a última recepção: 373 ms
+Dado recebido: 98
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 197 ms
+Dado recebido: 252
+Recebido da SSU!
+Tempo desde a última recepção: 323 ms
+Dado recebido: 97
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 243
+Recebido da SSU!
+Tempo desde a última recepção: 349 ms
+Dado recebido: 112
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 96 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 148 ms
+Dado recebido: 239
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 95
+Recebido da SSU!
+Tempo desde a última recepção: 88 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 92 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 178 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 93 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 94
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 95 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 175 ms
+Dado recebido: 247
+Recebido da SSU!
+Tempo desde a última recepção: 341 ms
+Dado recebido: 93
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 189
+Recebido da SSU!
+Tempo desde a última recepção: 372 ms
+Dado recebido: 92
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 210
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 216 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 304 ms
+Dado recebido: 91
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 243
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 370 ms
+Dado recebido: 90
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 95 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 111 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 189 ms
+Dado recebido: 251
+Recebido da SSU!
+Tempo desde a última recepção: 335 ms
+Dado recebido: 89
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 95 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 111 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 367 ms
+Dado recebido: 88
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 96 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 111 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 237
+Recebido da SSU!
+Tempo desde a última recepção: 354 ms
+Dado recebido: 87
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 95 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 112 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 86
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 95 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 111 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 187
+Recebido da SSU!
+Tempo desde a última recepção: 371 ms
+Dado recebido: 85
+Recebido da SSU!
+Tempo desde a última recepção: 89 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 96 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 111 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 369 ms
+Dado recebido: 84
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 217
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 253
+Recebido da SSU!
+Tempo desde a última recepção: 368 ms
+Dado recebido: 83
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 242
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 210
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 117 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 171 ms
+Dado recebido: 239
+Recebido da SSU!
+Tempo desde a última recepção: 350 ms
+Dado recebido: 82
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 226
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 218
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 255
+Recebido da SSU!
+Tempo desde a última recepção: 116 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 154 ms
+Dado recebido: 190
+Recebido da SSU!
+Tempo desde a última recepção: 370 ms
+Dado recebido: 81
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 194
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 194
+Recebido da SSU!
+Tempo desde a última recepção: 90 ms
+Dado recebido: 146
+Recebido da SSU!
+Tempo desde a última recepção: 91 ms
+Dado recebido: 255

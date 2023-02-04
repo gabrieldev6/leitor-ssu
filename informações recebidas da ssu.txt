@@ -1,0 +1,2707 @@
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 188777542, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:10124
+load:0x40080400,len:5856
+entry 0x400806a8
+Comunicação serial iniciada
+Iniciando a comunicação com a SSU...
+SSU Inicializada!
+Iniciando a comunicação LoRa...
+Comunicação LoRa iniciada!
+Recebido da SSU!
+Millis 122
+:14
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:1
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 378
+:205
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Recebido da SSU!
+Millis 116
+:4
+Recebido da SSU!
+Millis 126
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:138
+Recebido da SSU!
+Millis 366
+:78
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 90
+:24
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:139
+Recebido da SSU!
+Millis 379
+:77
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:24
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:136
+Recebido da SSU!
+Millis 370
+:76
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:136
+Recebido da SSU!
+Millis 370
+:75
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:143
+Recebido da SSU!
+Millis 368
+:74
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:142
+Recebido da SSU!
+Millis 368
+:73
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:141
+Recebido da SSU!
+Millis 371
+:72
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:140
+Recebido da SSU!
+Millis 369
+:71
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:131
+Recebido da SSU!
+Millis 369
+:70
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 89
+:2
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 370
+:69
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:129
+Recebido da SSU!
+Millis 370
+:68
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:128
+Recebido da SSU!
+Millis 369
+:67
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:135
+Recebido da SSU!
+Millis 370
+:66
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:134
+Recebido da SSU!
+Millis 369
+:65
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:133
+Recebido da SSU!
+Millis 369
+:64
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:25
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 88
+:132
+Recebido da SSU!
+Millis 373
+:63
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 91
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:248
+Recebido da SSU!
+Millis 369
+:62
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:249
+Recebido da SSU!
+Millis 381
+:61
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:250
+Recebido da SSU!
+Millis 360
+:60
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:251
+Recebido da SSU!
+Millis 376
+:59
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 91
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:252
+Recebido da SSU!
+Millis 364
+:58
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:253
+Recebido da SSU!
+Millis 369
+:57
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:254
+Recebido da SSU!
+Millis 372
+:56
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:255
+Recebido da SSU!
+Millis 367
+:55
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 89
+:240
+Recebido da SSU!
+Millis 372
+:54
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:241
+Recebido da SSU!
+Millis 377
+:53
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:242
+Recebido da SSU!
+Millis 372
+:52
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 91
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:243
+Recebido da SSU!
+Millis 360
+:51
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:26
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:244
+Recebido da SSU!
+Millis 378
+:50
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:244
+Recebido da SSU!
+Millis 364
+:49
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:247
+Recebido da SSU!
+Millis 370
+:48
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 89
+:246
+Recebido da SSU!
+Millis 370
+:47
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:233
+Recebido da SSU!
+Millis 371
+:46
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:232
+Recebido da SSU!
+Millis 370
+:45
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:235
+Recebido da SSU!
+Millis 368
+:44
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 90
+:234
+Recebido da SSU!
+Millis 376
+:43
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:237
+Recebido da SSU!
+Millis 365
+:42
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:236
+Recebido da SSU!
+Millis 369
+:41
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 91
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:239
+Recebido da SSU!
+Millis 375
+:40
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:238
+Recebido da SSU!
+Millis 364
+:39
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:225
+Recebido da SSU!
+Millis 375
+:38
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:27
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:224
+Recebido da SSU!
+Millis 370
+:37
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:228
+Recebido da SSU!
+Millis 368
+:36
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 87
+:130
+Recebido da SSU!
+Millis 93
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:229
+Recebido da SSU!
+Millis 371
+:35
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:226
+Recebido da SSU!
+Millis 369
+:34
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:227
+Recebido da SSU!
+Millis 371
+:33
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 89
+:224
+Recebido da SSU!
+Millis 369
+:32
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:225
+Recebido da SSU!
+Millis 374
+:31
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:222
+Recebido da SSU!
+Millis 360
+:30
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 91
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:223
+Recebido da SSU!
+Millis 375
+:29
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:220
+Recebido da SSU!
+Millis 369
+:28
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:221
+Recebido da SSU!
+Millis 369
+:27
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:218
+Recebido da SSU!
+Millis 370
+:26
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 90
+:28
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 86
+:2
+Recebido da SSU!
+Millis 94
+:0
+Recebido da SSU!
+Millis 90
+:219
+Recebido da SSU!
+Millis 373
+:25
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:217
+Recebido da SSU!
+Millis 366
+:24
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:216
+Recebido da SSU!
+Millis 370
+:23
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:215
+Recebido da SSU!
+Millis 365
+:22
+Recebido da SSU!
+Millis 93
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 89
+:214
+Recebido da SSU!
+Millis 381
+:21
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:213
+Recebido da SSU!
+Millis 370
+:20
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:212
+Recebido da SSU!
+Millis 369
+:19
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:211
+Recebido da SSU!
+Millis 371
+:18
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:210
+Recebido da SSU!
+Millis 359
+:17
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:209
+Recebido da SSU!
+Millis 381
+:16
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:208
+Recebido da SSU!
+Millis 359
+:15
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:207
+Recebido da SSU!
+Millis 380
+:14
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:206
+Recebido da SSU!
+Millis 369
+:13
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:29
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:205
+Recebido da SSU!
+Millis 360
+:12
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 91
+:207
+Recebido da SSU!
+Millis 382
+:11
+Recebido da SSU!
+Millis 89
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 91
+:2
+Recebido da SSU!
+Millis 89
+:0
+Recebido da SSU!
+Millis 90
+:200
+Recebido da SSU!
+Millis 370
+:10
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:201
+Recebido da SSU!
+Millis 369
+:9
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:202
+Recebido da SSU!
+Millis 370
+:8
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:203
+Recebido da SSU!
+Millis 370
+:7
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:196
+Recebido da SSU!
+Millis 359
+:6
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:197
+Recebido da SSU!
+Millis 369
+:5
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:198
+Recebido da SSU!
+Millis 382
+:4
+Recebido da SSU!
+Millis 91
+:162
+Recebido da SSU!
+Millis 89
+:130
+Recebido da SSU!
+Millis 91
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:199
+Recebido da SSU!
+Millis 358
+:3
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:192
+Recebido da SSU!
+Millis 371
+:2
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:193
+Recebido da SSU!
+Millis 374
+:1
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 90
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:2
+Recebido da SSU!
+Millis 90
+:0
+Recebido da SSU!
+Millis 90
+:194
+Recebido da SSU!
+Millis 365
+:0
+Recebido da SSU!
+Millis 90
+:162
+Recebido da SSU!
+Millis 91
+:130
+Recebido da SSU!
+Millis 90
+:30
+Recebido da SSU!
+Millis 90
+:248
+Recebido da SSU!
+Millis 1847
+:255
+Recebido da SSU!
+Millis 183
+:240
